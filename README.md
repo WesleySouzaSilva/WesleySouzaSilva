@@ -1,16 +1,18 @@
-### Hi there 👋
+### Ola eu sou Wesley Souza 👋
 
-<!--
-**WesleySouzaSilva/WesleySouzaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente sou desenvolvedor back end
+- 🌱 Estudando API rest com Spring...
+<a href="https://github.com/WesleySouzaSilva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouzaSilva&layout=compact" />
+</a>
+<a href="https://github.com/WesleySouzaSilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleySouzaSilva&show_icons=true&theme=transparent" />
+</a>
+
+<div>
+  <a href="https://www.linkedin.com/in/wesley-souza-b79841191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
