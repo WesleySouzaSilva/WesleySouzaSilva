@@ -16,3 +16,7 @@
   
 </div>
 
+<a href="https://github.com/WesleySouzaSilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WesleySouzaSilva&repo=conta-rural" />
+</a>
+
