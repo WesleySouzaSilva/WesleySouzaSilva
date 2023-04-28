@@ -1,8 +1,9 @@
 ### Ola eu sou Wesley Souza 👋
 
 
-- 🔭 Atualmente sou desenvolvedor back end
-- 🌱 Estudando API rest com Spring...
+- 🔭 Atualmente sou desenvolvedor back end Java
+- 🌱 Automações de processos com Python
+
 <a href="https://github.com/WesleySouzaSilva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouzaSilva&layout=compact" />
 </a>
