@@ -1,14 +1,13 @@
 ### Ola eu sou Wesley Souza 👋
 
 
-- 🔭 Atualmente sou desenvolvedor back end Java
-- 🌱 Trabalhando também com Automações de processos com Python
+ 🔭 Desenvolvedor Back End Java
+
+ Atualmente trabalho com desenvolvimento de software com java desde 2017, maior parte dos meus projetos sao java desktop (front end usando javafx).
+ Estou mergulhando desde 2021 no universo de API REST, usando o ecossistema SPRING.
 
 <a href="https://github.com/WesleySouzaSilva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouzaSilva&layout=compact" />
-</a>
-<a href="https://github.com/WesleySouzaSilva/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleySouzaSilva&show_icons=true&theme=transparent" />
 </a>
 
 <div>
