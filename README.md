@@ -21,12 +21,14 @@
 
  <div>
   <img height="180em" align="center" title="Minhas Linguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouzaSilva&layout=compact&langs_count=7&bg_color=DEG,2b2c30,3c363b&theme=tokyonight"/> 
-<a href="https://github.com/WesleySouzaSilva">
+  <a href="https://github.com/WesleySouzaSilva">
   
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=WesleySouzaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,2b2c30,3c363b"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=WesleySouzaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,2b2c30,3c363b"/>
 </div> 
 
-
+<div>
+ 
+</div> 
 
 ### 🤝🏻 &nbsp; Informações de Contato
 
@@ -34,7 +36,6 @@
 <a href="https://www.linkedin.com/in/wesley-souza-b79841191/" target="_blank"><img src="https://img.shields.io/badge/-Wesley%20Souza%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wesleydev17@gmail.com"><img src="https://img.shields.io/badge/-wesleydev17@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:wesley_souza19982010@hotmail.com"><img src="https://img.shields.io/badge/-wesley_souza19982010@hotmail.com-1788dd?style=flat&logo=Outlook&logoColor=white"/></a>
-<a href="http://www.wsystecsoftware.net.br/" target="_blank"></a>
 </p>
 
 
