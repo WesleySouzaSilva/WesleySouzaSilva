@@ -26,6 +26,8 @@
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=WesleySouzaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,2b2c30,3c363b"/>
 </div> 
 
+
+
 ### 🤝🏻 &nbsp; Informações de Contato
 
 <p align="left">
