@@ -10,12 +10,15 @@
 
 ### 🛠 &nbsp;Minhas habilidades 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![JavaFX](https://img.shields.io/badge/javafx-%23ED8B00.svg?style=for-the-badge&logo=openjfx&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-008000.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![mysql](https://img.shields.io/badge/Mysql-%230077B5?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![postgresql](https://img.shields.io/badge/Postgresql-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![JavaFX](https://img.shields.io/badge/javafx-%23ED8B00.svg?style=for-the-badge&logo=openjfx&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![mysql](https://img.shields.io/badge/Mysql-%230077B5?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/Postgresql-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics 
 
